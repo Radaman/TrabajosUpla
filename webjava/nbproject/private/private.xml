@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project-private xmlns="http://www.netbeans.org/ns/project-private/1">
+    <editor-bookmarks xmlns="http://www.netbeans.org/ns/editor-bookmarks/2" lastBookmarkId="0"/>
+    <open-files xmlns="http://www.netbeans.org/ns/projectui-open-files/2">
+        <group>
+            <file>file:/C:/Users/Ronny/Desktop/webjava/WebRoot/WEB-INF/jsp/MostrarStock.jsp</file>
+            <file>file:/C:/Users/Ronny/Desktop/webjava/src/CL/Juanito/Perez/Controllers/RepuestosController.java</file>
+            <file>file:/C:/Users/Ronny/Desktop/webjava/WebRoot/WEB-INF/jsp/EditarRepuesto.jsp</file>
+            <file>file:/C:/Users/Ronny/Desktop/webjava/src/CL/Juanito/Perez/Modelo/RepuestoModelo.java</file>
+            <file>file:/C:/Users/Ronny/Desktop/webjava/WebRoot/index.jsp</file>
+            <file>file:/C:/Users/Ronny/Desktop/webjava/src/CL/Juanito/Perez/Controllers/Recibir.java</file>
+            <file>file:/C:/Users/Ronny/Desktop/webjava/WebRoot/WEB-INF/jsp/Login.jsp</file>
+            <file>file:/C:/Users/Ronny/Desktop/webjava/WebRoot/META-INF/context.xml</file>
+            <file>file:/C:/Users/Ronny/Desktop/webjava/src/CL/Juanito/Perez/AccesoDatos/RepuestosDAO.java</file>
+            <file>file:/C:/Users/Ronny/Desktop/webjava/src/CL/Juanito/Perez/AccesoDatos/VentasDao.java</file>
+            <file>file:/C:/Users/Ronny/Desktop/webjava/WebRoot/WEB-INF/jsp/MostrarVentaRepuesto.jsp</file>
+            <file>file:/C:/Users/Ronny/Desktop/webjava/WebRoot/WEB-INF/jsp/ListarRepuestos.jsp</file>
+            <file>file:/C:/Users/Ronny/Desktop/webjava/WebRoot/WEB-INF/jsp/IngresarRepuesto.jsp</file>
+            <file>file:/C:/Users/Ronny/Desktop/webjava/WebRoot/WEB-INF/web.xml</file>
+        </group>
+    </open-files>
+</project-private>
