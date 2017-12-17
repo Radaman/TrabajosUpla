@@ -1,0 +1,49 @@
+El sistema consta de 5 modulos
+
+1.- Login
+2.- Mantenedor de productos.
+3.- Venta de productos.
+4.- Informe inventario de productos.
+5.- Informe de ventas de productos.
+
+
+
+1.- Login: debe permitir el ingreso al sistema con el nombre y usuario solamente.
+
+2.- Mantenedor de productos: debe permitir agregar/modificar/eliminar un producto, cada producto debe contar con la siguiente informacion:
+
+    SKU: codigo del producto unico
+
+    Nombre: nombre del producto
+    Descripcion: descipcion del producto
+    Precio Sin IVA: precio sin iva
+    Precion Con IVA: precio por unidad con iva
+    Valor IVA: valor del IVA
+    Cantidad en Stock: cantidad en stock 
+
+
+3.- Venta de productos:
+           Este modulo debe permitir la venta de respuestos, permitiendo vender mas de un producto a la vez y por varias unidades de cada producto, al momento de guardar la venta debe mostrar un detalle de los productos vendidos, el valor unitario, valor con y sin iva por producto y valor total con y sin iva por producto, cada venta debe quedar registrada en la base de datos.
+
+4.- Informe inventario de productos.
+
+    Este modulo debe mostrar todos los productos y la cantidad de stock ordenados por SKU.
+
+5.- Informe de ventas de productos.
+
+    Este modulo debe mostrar todas las ventas y su detalle (el mismo cuando se hace una venta), se debe ordenar por Fecha y Hora de venta de forma ascendente (las ventas mas antiguas primero)
+
+
+
+El porcentaje de cada modulo es el siguiente:
+
+
+1.- Login (10%)
+2.- Mantenedor de productos. (25%)
+3.- Venta de productos. (25%)
+4.- Informe inventario de productos. (20%)
+5.- Informe de ventas de productos. (20%)
+
+Con el 60% pueden llegar a la nota minima para aprobar.
+
+
