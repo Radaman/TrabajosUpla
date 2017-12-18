@@ -12,7 +12,7 @@ import javax.servlet.http.HttpServletResponse;
  *
  * @author Ronny
  */
-public class Recibir extends HttpServlet {
+public class Validar extends HttpServlet {
 
     
     protected void processRequest(HttpServletRequest request, HttpServletResponse response)

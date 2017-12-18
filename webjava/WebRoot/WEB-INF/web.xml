@@ -6,7 +6,7 @@
     </servlet>
     <servlet>
         <servlet-name>Recibir</servlet-name>
-        <servlet-class>CL.Juanito.Perez.Controllers.Recibir</servlet-class>
+        <servlet-class>CL.Juanito.Perez.Controllers.Validar</servlet-class>
     </servlet>
     <servlet-mapping>
         <servlet-name>spring</servlet-name>

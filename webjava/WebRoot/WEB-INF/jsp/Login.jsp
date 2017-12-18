@@ -15,13 +15,13 @@
         <title>JSP Page</title>
     </head>
     <body>
-        <h1>LOGIN</h1>
+    <h1>LOGIN</h1>
         
-        <form action="recibir.do" method="post">
+        <form action="validar.do" method="post">
               
             Nombre: <input type="text" name="txtnombre" value="" /><br />
             Contraseña: <input type="text" name="txtcontraseña" value="" /><br />
-            <input type="submit" value="Ingresar " name="btnlogin" />
+            <input type="submit" value="Ingresar" name="btnlogin" />
             
         </form>
     </body>
